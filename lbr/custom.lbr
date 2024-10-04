@@ -78,7 +78,6 @@
 <wire x1="-2.5" y1="1" x2="-2.5" y2="-1" width="0.12" layer="21"/>
 <wire x1="-2.5" y1="-1" x2="1" y2="-1" width="0.12" layer="21"/>
 <text x="0" y="1.5" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
-<text x="0" y="-1.5" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
 <wire x1="-1" y1="0.625" x2="1" y2="0.625" width="0.127" layer="51"/>
 <wire x1="1" y1="0.625" x2="1" y2="-0.625" width="0.127" layer="51"/>
 <wire x1="1" y1="-0.625" x2="-1" y2="-0.625" width="0.127" layer="51"/>
@@ -125,7 +124,6 @@
 <wire x1="1.1589875" y1="3.018165625" x2="1.629490625" y2="3.175" width="0.1524" layer="94"/>
 <wire x1="1.629490625" y1="3.175" x2="1.30090625" y2="2.939346875" width="0.1524" layer="94"/>
 <text x="2.54" y="2.54" size="0.9" layer="95" font="vector">&gt;NAME</text>
-<text x="0" y="-2.54" size="0.9" layer="96" font="vector">&gt;VALUE</text>
 <wire x1="-1.778" y1="2.032" x2="-1.778" y2="1.016" width="0.1524" layer="94"/>
 <wire x1="-2.286" y1="1.524" x2="-1.27" y2="1.524" width="0.1524" layer="94"/>
 </symbol>
